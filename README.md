@@ -29,3 +29,9 @@ $ bun run test:e2e
 # test coverage
 $ bun run test:cov
 ```
+
+## Run Application
+
+```bash
+http://localhost:3000
+```
